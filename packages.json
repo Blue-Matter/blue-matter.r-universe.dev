@@ -1,0 +1,18 @@
+[
+    {
+        "package": "openMSE",
+        "url": "https://github.com/Blue-Matter/openMSE"
+    },
+    {
+        "package": "MSEtool",
+        "url": "https://github.com/Blue-Matter/MSEtool"
+    },
+    {
+        "package": "SAMtool",
+        "url": "https://github.com/Blue-Matter/SAMtool"
+    },
+    {
+        "package": "DLMtool",
+        "url": "https://github.com/Blue-Matter/DLMtool"
+    }
+]
